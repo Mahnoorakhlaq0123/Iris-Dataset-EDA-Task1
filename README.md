@@ -1,6 +1,4 @@
-# Iris-Dataset-EDA-Task1
-Exploratory Data Analysis of Iris Dataset using Python, Pandas, Seaborn, and Matplotlib.
-# 🌸 Iris Dataset Exploratory Data Analysis (Task 1)
+
 
 ## 📌 Internship Project - DevelopersHub Corporation
 
