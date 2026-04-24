@@ -1,20 +1,20 @@
 
-# 🌸 Iris Dataset Exploratory Data Analysis (Task 1)
-## 📌 Internship Project - DevelopersHub Corporation
+#  Iris Dataset Exploratory Data Analysis (Task 1)
+##  Internship Project - DevelopersHub Corporation
 
 ---
 
-## 🎯 Objective
+##  Objective
 To explore and visualize the Iris dataset to understand feature distributions, relationships, and patterns between different flower species.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Iris Dataset (loaded using seaborn library)
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Python  
 - Pandas  
 - Matplotlib  
@@ -22,7 +22,7 @@ To explore and visualize the Iris dataset to understand feature distributions, r
 
 ---
 
-## 📊 Tasks Performed
+##  Tasks Performed
 - Data loading and inspection  
 - Statistical summary  
 - Missing value check  
@@ -34,7 +34,7 @@ To explore and visualize the Iris dataset to understand feature distributions, r
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Petal length and petal width are the most important features  
 - Species are clearly separable  
 - Dataset is clean with no missing values  
